@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Event-Handling-in-react/static/css/main.073c9b0a.css",
+    "main.js": "/Event-Handling-in-react/static/js/main.673a8fa1.js",
+    "static/js/787.e577274b.chunk.js": "/Event-Handling-in-react/static/js/787.e577274b.chunk.js",
+    "index.html": "/Event-Handling-in-react/index.html",
+    "main.073c9b0a.css.map": "/Event-Handling-in-react/static/css/main.073c9b0a.css.map",
+    "main.673a8fa1.js.map": "/Event-Handling-in-react/static/js/main.673a8fa1.js.map",
+    "787.e577274b.chunk.js.map": "/Event-Handling-in-react/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.673a8fa1.js"
+  ]
+}
